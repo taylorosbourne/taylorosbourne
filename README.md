@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorosbourne)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on way too many things
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 📚 I'm currently reading [The Small Backs of Children](https://www.goodreads.com/book/show/23462654-the-small-backs-of-children) by [Lidia Yuknavitch](https://www.goodreads.com/author/show/435891.Lidia_Yuknavitch)
